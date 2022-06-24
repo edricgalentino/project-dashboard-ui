@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+<<<<<<< HEAD
+=======
+# testing
+/coverage
+
+>>>>>>> 4e4a694a83931c62fd522af9914445b97d3a554f
 # misc
 .DS_Store
 .env.local
